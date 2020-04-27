@@ -1,0 +1,15 @@
+C:\Users\myksm\source\repos\WpfHospitalManagement\WpfHospitalManagement\bin\Debug\WpfHospitalManagement.exe.config
+C:\Users\myksm\source\repos\WpfHospitalManagement\WpfHospitalManagement\bin\Debug\WpfHospitalManagement.exe
+C:\Users\myksm\source\repos\WpfHospitalManagement\WpfHospitalManagement\bin\Debug\WpfHospitalManagement.pdb
+C:\Users\myksm\source\repos\WpfHospitalManagement\WpfHospitalManagement\obj\Debug\WpfHospitalManagement.csprojAssemblyReference.cache
+C:\Users\myksm\source\repos\WpfHospitalManagement\WpfHospitalManagement\obj\Debug\MainWindow.g.cs
+C:\Users\myksm\source\repos\WpfHospitalManagement\WpfHospitalManagement\obj\Debug\App.g.cs
+C:\Users\myksm\source\repos\WpfHospitalManagement\WpfHospitalManagement\obj\Debug\WpfHospitalManagement_MarkupCompile.cache
+C:\Users\myksm\source\repos\WpfHospitalManagement\WpfHospitalManagement\obj\Debug\WpfHospitalManagement_MarkupCompile.lref
+C:\Users\myksm\source\repos\WpfHospitalManagement\WpfHospitalManagement\obj\Debug\MainWindow.baml
+C:\Users\myksm\source\repos\WpfHospitalManagement\WpfHospitalManagement\obj\Debug\WpfHospitalManagement.g.resources
+C:\Users\myksm\source\repos\WpfHospitalManagement\WpfHospitalManagement\obj\Debug\WpfHospitalManagement.Properties.Resources.resources
+C:\Users\myksm\source\repos\WpfHospitalManagement\WpfHospitalManagement\obj\Debug\WpfHospitalManagement.csproj.GenerateResource.cache
+C:\Users\myksm\source\repos\WpfHospitalManagement\WpfHospitalManagement\obj\Debug\WpfHospitalManagement.csproj.CoreCompileInputs.cache
+C:\Users\myksm\source\repos\WpfHospitalManagement\WpfHospitalManagement\obj\Debug\WpfHospitalManagement.exe
+C:\Users\myksm\source\repos\WpfHospitalManagement\WpfHospitalManagement\obj\Debug\WpfHospitalManagement.pdb
