@@ -23,26 +23,8 @@ namespace WpfHospitalManagement
         public MainWindow()
         {
             InitializeComponent();
+            new MainPage(page);
         }
-
-        private void Patient_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void Room_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void Bill_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void Ect_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
+        
     }
 }

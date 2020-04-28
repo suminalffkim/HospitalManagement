@@ -5,12 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfHospitalManagement"
         mc:Ignorable="d"
-        Title="Hospital Management" Height="450" Width="758
-        ">
-    <Grid>
-        <Button x:Name="Patient" BorderThickness="0" Height="100" Margin="70,160,580,159" Content="Patient" Click="Patient_Click"/>
-        <Button x:Name="Room" BorderThickness="0" Height="100" Margin="240,160,410,159"  Content="Room" Click="Room_Click"/>
-        <Button x:Name="Bill" BorderThickness="0" Height="100" Margin="410,160,240,159" Content="Bill" Click="Bill_Click"/>
-        <Button x:Name="ect" BorderThickness="0" Height="100" Margin="580,160,70,159" Content="ect" Click="Ect_Click"/>
+        Title="Hospital Management" Height="450" Width="758" ResizeMode="NoResize">
+    <Grid x:Name="page" Width="758" Height="424" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,0,0,0">
+      
     </Grid>
 </Window>
