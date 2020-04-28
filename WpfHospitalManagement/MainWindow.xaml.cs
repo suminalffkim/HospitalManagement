@@ -23,7 +23,29 @@ namespace WpfHospitalManagement
         public MainWindow()
         {
             InitializeComponent();
+            MainPageOpen();
+        }
+        public void MainPageOpen()
+        {
             new MainPage(page);
+        }
+
+        public void PatientPageOpen()
+        {
+            new Patient(page);
+        }
+        public void RoomPageOpen()
+        {
+            new Room(page);
+        }
+        public void BillPageOpen()
+        {
+            new Bill(page);
+        }
+
+        public void ectPageOpen()
+        {
+            new ect(page);
         }
         
     }

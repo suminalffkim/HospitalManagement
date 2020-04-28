@@ -15,6 +15,9 @@ namespace WpfHospitalManagement
 
         Grid page;
         Button buttonPatient,buttonRoom,buttonBill,buttonect;
+        MainWindow main;
+
+
         public MainPage(Grid page)
         {
             this.page = page;
@@ -53,23 +56,25 @@ namespace WpfHospitalManagement
             buttonect.BorderThickness = new Thickness(0);
             buttonect.Click += new RoutedEventHandler(buttonect_Click);
             page.Children.Add(buttonect);
-            
+
+            MainWindow main = new MainWindow();
+
         }
         private void buttonPatient_Click(object sender, RoutedEventArgs e)
         {
-            
+            main.PatientPageOpen();
         }
         private void buttonRoom_Click(object sender, RoutedEventArgs e)
         {
-
+            main.RoomPageOpen();            
         }
         private void buttonBill_Click(object sender, RoutedEventArgs e)
         {
-
+            main.BillPageOpen();
         }
         private void buttonect_Click(object sender, RoutedEventArgs e)
         {
-
+            main.ectPageOpen();
         }
     }
 }
